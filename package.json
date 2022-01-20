@@ -1,0 +1,36 @@
+{
+  "name": "purefi-widget-demo",
+  "version": "1.0.0",
+  "description": "PureFI widget integration full demo project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "@purefi/verifier-widget": "^1.2.0",
+    "bootstrap": "^4.6.0",
+    "ethers": "^5.5.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-query": "^3.34.8",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

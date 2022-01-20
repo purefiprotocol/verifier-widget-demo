@@ -1,0 +1,17 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 16px;
+  padding: 5px 5px 5px 10px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.address {
+  margin-right: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

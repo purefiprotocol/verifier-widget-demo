@@ -1758,10 +1758,10 @@
     axios "^0.22.0"
     eth-rpc-errors "^4.0.3"
 
-"@purefi/verifier-widget@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@purefi/verifier-widget/-/verifier-widget-1.2.0.tgz#f7f03ae8a802bc34dad1bd9a9e9e62e251c124f0"
-  integrity sha512-FiR+F8+N0wIlJfbs/htXsgZdllkl9fKJB/8kkvbSHrQL2PlBF0NGmpRICTpWscJVXEyVBAb38c7AGIA/089ByQ==
+"@purefi/verifier-widget@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@purefi/verifier-widget/-/verifier-widget-1.2.1.tgz#2fa265a5a6d15da048934bb51362bbc22122216b"
+  integrity sha512-E/24L0Xg/7U4RWSsrmBxJbG+42coZLG73F0TvxSd6gCPXJSr+S+nixwSQNZ2YWR36Z9GLY1ddn2WA5tdXWdqNg==
   dependencies:
     "@purefi/verifier-sdk" "^4.0.3"
     "@reduxjs/toolkit" "^1.7.1"

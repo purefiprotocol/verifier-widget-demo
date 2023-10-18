@@ -1571,18 +1571,20 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@purefi/verifier-sdk@^4.0.4":
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/@purefi/verifier-sdk/-/verifier-sdk-4.0.4.tgz#d2d81c939c72834885d8de3f5da78e262b9a7e88"
+"@purefi/verifier-sdk@^6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@purefi/verifier-sdk/-/verifier-sdk-6.0.2.tgz#7e6e0395fd0e9d7a42df609cbbe4ce64a81d2e93"
+  integrity sha512-7nSAyjcFjjGG5EUEPndWPEtFu5WCC6etL60clYAkEYYWr8+ZT7SGbJStPHVlJF5nZS16tlY6qf8PFP8+vItgig==
   dependencies:
     axios "^0.22.0"
     eth-rpc-errors "^4.0.3"
 
-"@purefi/verifier-widget@^1.3.1":
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/@purefi/verifier-widget/-/verifier-widget-1.3.1.tgz#2979f70fedf2e9fe2860de62503bdfdd719e60d3"
+"@purefi/verifier-widget@^1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@purefi/verifier-widget/-/verifier-widget-1.3.2.tgz#bccec01f23707662abdde92d07d44f75101ed31f"
+  integrity sha512-+AjT0UPDK9z0/UHNnQXaqH1SD8Bvtmbdy3gtXIpO/QGX2ku45nB4RgkU8Jj3fs3q234bYe6kcAcAlSyC30Txqw==
   dependencies:
-    "@purefi/verifier-sdk" "^4.0.4"
+    "@purefi/verifier-sdk" "^6.0.2"
     "@reduxjs/toolkit" "^1.7.1"
     clsx "^1.1.1"
     connected-react-router "^6.9.2"
